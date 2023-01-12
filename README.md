@@ -1,7 +1,7 @@
   ### Hi there 👋
   
 
-**- 🪛 languages and tools:**
+**- 🛠️ languages and tools:**
 
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash" /></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js" /></code>
